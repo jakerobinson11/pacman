@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+#playground {
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+}
+
+#pacman {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+}
